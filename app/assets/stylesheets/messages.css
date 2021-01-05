@@ -114,13 +114,8 @@
   margin-bottom: 40px;
 }
 
-.chat-footer{
-  background-color: #dddddd;
-  height: 90px;
-  padding: 20px 40px;
-}
 
-.chat-footer {
+.form {
   background-color: #DDDDDD;
   height: 90px;
   padding: 20px 40px;
@@ -163,3 +158,5 @@
 .hidden {
   display: none;
 }
+
+
